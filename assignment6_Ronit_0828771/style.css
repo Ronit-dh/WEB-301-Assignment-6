@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(234, 225, 214, 0.85);
+}
+
+h1, h3 {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.bg-primary {
+    background-color: rgb(234, 151, 87);
+}
+
+.bg-secondary {
+    background-color: rgb(229, 24, 89);
+}
+
+.bg-info {
+    background-color: rgb(127, 42, 42);
+}
+
+.text-primary {
+    color: rgb(234, 151, 87);
+}
+
+.text-white {
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.user-select-none {
+    user-select: none;
+}
+
+.spacer {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid #ccc;
+}
